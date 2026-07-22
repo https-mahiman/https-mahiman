@@ -44,7 +44,8 @@
 Add GitHub Action using:
 https://github.com/Platane/snk
 
-![snake](https://raw.githubusercontent.com/https-mahiman/https-mahiman/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 
 ---
 ⭐ Thanks for visiting!
