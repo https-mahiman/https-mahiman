@@ -39,7 +39,17 @@
 
 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https-mahiman&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=https-mahiman&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https-mahiman&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🐍 Contribution Snake
 
