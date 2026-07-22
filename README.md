@@ -37,6 +37,8 @@
 
 ## 🏆 Trophies
 
+🏆 Trophies
+
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
 
 ## 🐍 Contribution Snake
